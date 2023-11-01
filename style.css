@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: purple;
+ 
+  }
+  
+  .navbar {
+    background-color:skyblue;
+    color: red;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .container {
+    margin: 20px;
+  }
+  
+  .movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 250px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
